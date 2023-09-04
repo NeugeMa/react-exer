@@ -8,6 +8,7 @@ export default function App() {
     <>
       <Menu/> 
       <Outlet/>
+      <Rodape/> 
     </>
   )
 }
