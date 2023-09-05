@@ -8,7 +8,9 @@ export default function App() {
   return (
     <>
       <Menu/> 
-      <Outlet/>
+
+        <Outlet/>
+
       <Rodape/> 
     </>
   )
